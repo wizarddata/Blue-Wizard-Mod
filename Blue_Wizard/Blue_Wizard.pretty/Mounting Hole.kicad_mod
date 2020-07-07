@@ -1,0 +1,9 @@
+(module "Mounting Hole" (layer F.Cu) (tedit 5EDEE705)
+  (fp_text reference Ref* (at 0.3302 5.08) (layer F.SilkS) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text value "Mounting Hole" (at -0.2032 -5.9944) (layer F.Fab)
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (pad 1 thru_hole circle (at 0 0) (size 6.35 6.35) (drill 3.9624) (layers *.Cu *.Mask))
+)

@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name BMD-300)(type Legacy)(uri "${KIPRJMOD}/Symbols and Footprints/BMD-300.lib")(options "")(descr ""))
+)

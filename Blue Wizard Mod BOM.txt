@@ -1,0 +1,55 @@
+Blue Wizard Mod
+
+nRF52832 Modules
+
+BT832 - $9.52		Castellations & LGA, 6mm antenna overhang
+BMD-300 - $11.30	Landing Pads, 4.4mm antenna overhang, most stock on Mouser
+
+Ribbon Connectors
+Vertical 13 Position
+Manufacturer PN - 0039532135
+
+Horizontal 13 Position
+Manufacturer PN - 0039532134
+
+Battery Management
+MCP73831T-2ACI/OT
+
+LDO Reguator
+MIC5504-3.3YM5-TR
+
+SWD Programming Header
+20021121-00010C4LF
+
+Reset Switch
+PTS526 SK08 SMTR2 LFS
+
+USB C Jack
+10137062-00021LF
+
+Green 3mm LED
+LTL-4231N
+
+R1 - R4 100 ohm
+CRCW0805100RFKEA
+
+R7 R8 5.1k ohm
+CRCW08055K10FKEA
+
+R5 100k
+CRCW0805100KJNEAC
+
+R6 10k
+CRCW080510K0FKEAC
+
+C1 C2 1uF
+885012207078
+
+C3 C4 4.7uF
+0805X475M250CT
+
+Mosfet
+BSS84
+
+D5
+MBR120ESFT3G

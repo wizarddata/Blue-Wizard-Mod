@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP NE555DR
+D Single Precision Timer
+K
+F http://www.ti.com/lit/ds/symlink/ne555.pdf
+$ENDCMP
+#
+$CMP SIT1533AI-H4-DCC-32.768E
+D Standard Clock Oscillators 32.768KHz R2R LVCMOS -40 to 85C 100ppm
+K
+F https://www.sitime.com/datasheet/SiT1533
+$ENDCMP
+#
+#End Doc Library

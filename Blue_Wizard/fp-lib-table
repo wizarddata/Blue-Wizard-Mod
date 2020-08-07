@@ -1,3 +1,4 @@
 (fp_lib_table
   (lib (name Blue_Wizard)(type KiCad)(uri ${KIPRJMOD}/Blue_Wizard.pretty)(options "")(descr ""))
+  (lib (name SamacSys_Parts)(type KiCad)(uri ${KIPRJMOD}/SamacSys_Parts.pretty)(options "")(descr ""))
 )

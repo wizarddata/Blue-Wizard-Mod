@@ -1425,25 +1425,12 @@ F 3 "" H 7400 5650 50  0001 C CNN
 	1    7400 5650
 	1    0    0    -1  
 $EndComp
-$Comp
-L Connector:Conn_01x02_Male J14
-U 1 1 5F2E5B27
-P 5200 1600
-F 0 "J14" H 5100 1600 50  0000 C CNN
-F 1 "Conn_01x02" H 5300 1400 50  0000 C CNN
-F 2 "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical" H 5200 1600 50  0001 C CNN
-F 3 "~" H 5200 1600 50  0001 C CNN
-	1    5200 1600
-	1    0    0    -1  
-$EndComp
 Wire Wire Line
 	4950 1500 4950 1900
 Wire Wire Line
-	5400 1300 5400 1600
+	5400 1300 5400 1500
 Wire Wire Line
 	5400 1300 4950 1300
-Wire Wire Line
-	5500 1700 5400 1700
 Wire Wire Line
 	4950 1900 5900 1900
 Wire Wire Line
@@ -1474,25 +1461,11 @@ Connection ~ 5250 7950
 Wire Wire Line
 	5250 7950 5250 8100
 Wire Wire Line
-	5500 1500 5500 1700
-Wire Wire Line
 	5400 1300 5500 1300
 Connection ~ 5400 1300
 Wire Wire Line
 	6300 1300 6500 1300
 Connection ~ 6500 1300
-$Comp
-L Regulator_Linear:MIC5365-3.3YD5 U2
-U 1 1 5F32FB87
-P 5900 1400
-F 0 "U2" H 5900 1767 50  0000 C CNN
-F 1 "MIC5365-3.3YD5" H 5900 1676 50  0000 C CNN
-F 2 "Package_TO_SOT_SMD:SOT-23-5" H 5900 1750 50  0001 C CNN
-F 3 "http://ww1.microchip.com/downloads/en/DeviceDoc/mic5365.pdf" H 5650 1650 50  0001 C CNN
-	1    5900 1400
-	1    0    0    -1  
-$EndComp
-Connection ~ 5900 1700
 Wire Notes Line
 	450  6400 3700 6400
 Wire Notes Line
@@ -1551,7 +1524,6 @@ Wire Wire Line
 Connection ~ 2200 2000
 Wire Wire Line
 	2200 2000 2200 2100
-NoConn ~ 1650 9800
 NoConn ~ 13600 3750
 NoConn ~ 12800 8050
 NoConn ~ 5450 8100
@@ -1570,4 +1542,19 @@ NoConn ~ 4550 9300
 NoConn ~ 4550 9200
 Text Notes 8250 3350 0    50   ~ 0
 nRF52832 Module
+$Comp
+L Regulator_Linear:MIC5504-3.3YM5 U2
+U 1 1 5F408DEA
+P 5900 1400
+F 0 "U2" H 5900 1767 50  0000 C CNN
+F 1 "MIC5504-3.3YM5" H 5900 1676 50  0000 C CNN
+F 2 "Package_TO_SOT_SMD:SOT-23-5" H 5900 1000 50  0001 C CNN
+F 3 "http://ww1.microchip.com/downloads/en/DeviceDoc/MIC550X.pdf" H 5650 1650 50  0001 C CNN
+	1    5900 1400
+	1    0    0    -1  
+$EndComp
+Connection ~ 5900 1700
+Wire Wire Line
+	5500 1500 5400 1500
+NoConn ~ 1650 9800
 $EndSCHEMATC

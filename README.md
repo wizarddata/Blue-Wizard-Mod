@@ -10,4 +10,6 @@
  - External LF oscillator
  - Works with adafruit bootloader and BSP with zero modification
  
+ 8/24/2020 - Rev 0 board has been assembled and is undergoing testing. At least one more revision to the design is in the pipeline.
+ 
 ![Image of prototype](https://i.imgur.com/Kw3Oz6i.jpg)

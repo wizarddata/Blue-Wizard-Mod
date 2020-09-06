@@ -1428,10 +1428,6 @@ $EndComp
 Wire Wire Line
 	4950 1500 4950 1900
 Wire Wire Line
-	5400 1300 5400 1500
-Wire Wire Line
-	5400 1300 4950 1300
-Wire Wire Line
 	4950 1900 5900 1900
 Wire Wire Line
 	5900 1900 5900 1700
@@ -1460,9 +1456,6 @@ Wire Wire Line
 Connection ~ 5250 7950
 Wire Wire Line
 	5250 7950 5250 8100
-Wire Wire Line
-	5400 1300 5500 1300
-Connection ~ 5400 1300
 Wire Wire Line
 	6300 1300 6500 1300
 Connection ~ 6500 1300
@@ -1554,7 +1547,27 @@ F 3 "http://ww1.microchip.com/downloads/en/DeviceDoc/MIC550X.pdf" H 5650 1650 50
 	1    0    0    -1  
 $EndComp
 Connection ~ 5900 1700
+NoConn ~ 1650 9800
+Wire Wire Line
+	4950 1300 5300 1300
+$Comp
+L Connector:Conn_01x02_Male J14
+U 1 1 5F549B61
+P 5300 1800
+F 0 "J14" V 5454 1612 50  0000 R CNN
+F 1 "Conn_01x02" V 5250 1700 50  0000 R CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical" H 5300 1800 50  0001 C CNN
+F 3 "~" H 5300 1800 50  0001 C CNN
+	1    5300 1800
+	0    -1   -1   0   
+$EndComp
 Wire Wire Line
 	5500 1500 5400 1500
-NoConn ~ 1650 9800
+Wire Wire Line
+	5400 1500 5400 1600
+Wire Wire Line
+	5300 1600 5300 1300
+Connection ~ 5300 1300
+Wire Wire Line
+	5300 1300 5500 1300
 $EndSCHEMATC

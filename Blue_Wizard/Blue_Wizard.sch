@@ -876,7 +876,6 @@ NoConn ~ 13350 4550
 NoConn ~ 13850 4550
 NoConn ~ 14900 4450
 NoConn ~ 15400 4550
-NoConn ~ 15400 4250
 NoConn ~ 15400 4350
 NoConn ~ 15400 5450
 NoConn ~ 14900 5650
@@ -1570,4 +1569,6 @@ Wire Wire Line
 Connection ~ 5300 1300
 Wire Wire Line
 	5300 1300 5500 1300
+Text GLabel 15400 4250 2    50   Input ~ 0
+C6
 $EndSCHEMATC

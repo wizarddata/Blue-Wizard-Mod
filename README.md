@@ -3,7 +3,7 @@
  
  STATUS
  
- First prototype board has been assembled and is fully functional. Rev 0 in development with the following features:
+ Rev 0a is final with the following features added:
  
  - USB/Serial circuit
  - Battery monitoring
@@ -11,5 +11,6 @@
  - Works with adafruit bootloader and BSP with zero modification
  
  8/24/2020 - Rev 0 board has been assembled and is undergoing testing. At least one more revision to the design is in the pipeline.
+ 9/12/2020 - Rev 0a design is complete, hardware is final.
  
 ![Image of prototype](https://i.imgur.com/Kw3Oz6i.jpg)

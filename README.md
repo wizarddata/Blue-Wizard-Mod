@@ -1,5 +1,5 @@
 # Blue-Wizard-Mod
- Open source bluetooth controller for the Kinesis Advantage line of keyboards using the BlueMicro firmware.
+ Bluetooth controller for the Kinesis Advantage line of keyboards using the BlueMicro firmware.
  
  STATUS
  

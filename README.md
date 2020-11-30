@@ -1,5 +1,9 @@
 # Blue-Wizard-Mod
+<<<<<<< HEAD
  Bluetooth controller for the Kinesis Advantage line of keyboards using the BlueMicro firmware.
+=======
+ Open source bluetooth controller for the Kinesis Advantage and Advantage 2 line of keyboards using the BlueMicro firmware.
+>>>>>>> master
  
  STATUS
  

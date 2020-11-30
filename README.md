@@ -3,6 +3,8 @@
 =======
  Open source bluetooth controller for the Kinesis Advantage and Advantage 2 line of keyboards using the BlueMicro firmware.
  
+ If you're interested in purchasing an assembled mod, contact me at andrew.wells88@gmail.com.
+ 
  STATUS
  
  Rev 1 is final with the following features added:

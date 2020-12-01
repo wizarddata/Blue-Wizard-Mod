@@ -3,6 +3,9 @@
  =======
  Gerbers and BOM are available if you'd like to build your own! If you're interested in purchasing an assembled mod, or in having one installed, contact me at andrew.wells88@gmail.com.
  
+  
+![Image_of_Rev0](https://github.com/wizarddata/Blue-Wizard-Mod/blob/master/Pictures/20200911_090510.jpg)
+
 You will need some additional hardware to make your board functional. Links are provided below for guidance:
 
 1) Latching/Toggle/Rocker panel mount switch for power, or bridge J14 pins for always on. 
@@ -21,6 +24,4 @@ You will need some additional hardware to make your board functional. Links are 
 
  https://www.sparkfun.com/products/13855
  
-  
-![Image_of_Rev0](https://github.com/wizarddata/Blue-Wizard-Mod/blob/master/Pictures/20200911_090510.jpg)
 

@@ -16,7 +16,7 @@ You will need some additional hardware to make your board functional. Links are 
 
  https://www.sparkfun.com/products/15455
 
-3) Momentary panel mount switch for reset (optional if you have a power switch).
+3) Momentary panel mount switch for reset (optional, reset switch is onboard).
 
  https://www.sparkfun.com/products/11995
 

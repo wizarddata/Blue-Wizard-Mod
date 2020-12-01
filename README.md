@@ -1,7 +1,7 @@
 # Blue-Wizard-Mod
  Open source bluetooth controller for the Kinesis Advantage and Advantage 2 line of keyboards using the BlueMicro firmware.
  =======
- Gerbers and BOM are available here if you'd like to build your own! If you're interested in purchasing an assembled mod, or in having one installed, contact me at andrew.wells88@gmail.com.
+ Gerbers and BOM are available if you'd like to build your own! If you're interested in purchasing an assembled mod, or in having one installed, contact me at andrew.wells88@gmail.com.
  
 You will need some additional hardware to make your board functional. Links are provided below for guidance:
 

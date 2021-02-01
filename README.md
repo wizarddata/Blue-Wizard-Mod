@@ -4,7 +4,7 @@ This is an open source bluetooth controller for the Kinesis Advantage and Advant
 
 Firmware can be found here. https://github.com/jpconstantineau/BlueMicro_BLE/tree/develop
 
- Gerbers and BOM are available if you'd like to build your own! If you're interested in purchasing an assembled mod email me at andrew.wells88@gmai.com orcheck out my etsy store.
+ Gerbers and BOM are available if you'd like to build your own! If you're interested in purchasing an assembled mod email me at andrew.wells88@gmail.com orcheck out my etsy store.
  
  https://www.etsy.com/shop/WizardKeyboards?ele=shop_open
  

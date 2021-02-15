@@ -19,7 +19,6 @@ You will need some additional hardware to make your board functional. Links are 
 2) USB-C panel mount extension.
  
  https://www.sparkfun.com/products/15455  
- https://www.amazon.com/dp/B08169ZB5C/ref=cm_sw_r_cp_api_glt_fabc_G1MT1V5PB9B76P2SWG2N?_encoding=UTF8&th=1  
  
 3) Momentary panel mount switch for reset (optional, reset switch is onboard).
 

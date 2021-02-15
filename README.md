@@ -3,7 +3,6 @@
 This is an open source bluetooth controller for the Kinesis Advantage and Advantage 2 line of keyboards using the BlueMicro firmware.
 
 Firmware can be found here. https://github.com/jpconstantineau/BlueMicro_BLE/tree/develop/firmware/keyboards/blue_wizard  
-Firmware is compiled for 'Adafruit Feather nrf52832' in adafruit's nRF52 Boards BSP https://learn.adafruit.com/bluefruit-nrf52-feather-learning-guide/arduino-bsp-setup
 
  Gerbers and BOM are available if you'd like to build your own! If you're interested in purchasing an assembled mod email me at andrew.wells88@gmail.com or check out my etsy store.
  

@@ -3,7 +3,7 @@
 This is an open source bluetooth controller for the Kinesis Advantage and Advantage 2 line of keyboards using the BlueMicro firmware.
 
 Firmware can be found here. https://github.com/jpconstantineau/BlueMicro_BLE/tree/develop/firmware/keyboards/blue_wizard  
-For now, you need to create your fork at PR185 due to an incompatibility with some recent changes to the firmware. We are working on a fix.
+For now, you need to create your branch at PR185 due to an incompatibility with some recent changes to the firmware. We are working on a fix.
 
  Gerbers and BOM are available if you'd like to build your own! If you're interested in purchasing an assembled mod email me at andrew.wells88@gmail.com or check out my etsy store.
  

@@ -4,7 +4,7 @@ This is an open source bluetooth controller for the Kinesis Advantage and Advant
 
 Firmware can be found here. https://github.com/wizarddata/BlueMicro_BLE/tree/blue-wizard-working
 
-A recent change in the blueMicro firmware has brought about an incompatibility with this mod. For now, use the fork linked above to make any layout changes and utilize the adafruit nrf52832 BSP. We are working on a solution.
+For now, use the fork linked above to make any layout changes and utilize the adafruit nrf52832 BSP.
 
  Gerbers and BOM are available if you'd like to build your own! If you're interested in purchasing an assembled mod email me at andrew.wells88@gmail.com or check out my etsy store.
  

@@ -34,7 +34,8 @@ You will need some additional hardware to make your board functional. Links are 
 
 ***Advantage 2 Troubleshooting***  
 Some keyboards experience intermittent joined activations on function keys. Installing a jumper wire from the negative battery connection to the ground pin of the 3.3v regulator can help resolve this issue. The necessary wire is pictured here:  
-https://github.com/wizarddata/Blue-Wizard-Mod/blob/master/Pictures/Advantage_2_Wire.jpg  
-Some users have reported F1 simultateously triggering F2. A 10k resistor between the pins pictured here will resolve this.  
-https://github.com/wizarddata/Blue-Wizard-Mod/blob/master/Pictures/pull%20up%201.jpg  
-https://github.com/wizarddata/Blue-Wizard-Mod/blob/master/Pictures/pull%20up%202.jpg
+<img src="https://github.com/wizarddata/Blue-Wizard-Mod/blob/master/Pictures/Advantage_2_Wire.jpg" width="600" />
+
+Some users have reported F1 simultateously triggering F2. A 10k resistor between the pins indicated here will resolve this. Click the images for a full size version.  
+<img src="https://github.com/wizarddata/Blue-Wizard-Mod/blob/master/Pictures/pull%20up%201.jpg" width="400" />
+<img src="https://github.com/wizarddata/Blue-Wizard-Mod/blob/master/Pictures/pull%20up%202.jpg" width="400" />

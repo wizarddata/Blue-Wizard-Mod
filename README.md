@@ -6,8 +6,8 @@ Firmware can be found here. https://github.com/wizarddata/BlueMicro_BLE/tree/blu
 
 For now, use the fork linked above to make any layout changes and utilize the adafruit nrf52832 BSP.
 
-***Advantage 2 Users*** Some keyboards experience intermittent joined activations on function keys. Installing a jumper wire from the negative battery connection to the ground pin of the 3.3v regulator has resolved this issue on the board I tested. The necessary wire is pictured here: https://imgur.com/a/eTxlODe. 
-A future software update may address this issue further once it is better understood.
+***Advantage 2 Users*** Some keyboards experience intermittent joined activations on function keys. Installing a jumper wire from the negative battery connection to the ground pin of the 3.3v regulator has resolved this issue. The necessary wire is pictured here: https://imgur.com/a/eTxlODe. 
+Some users have reported F1 simultateously triggering F2. A 10k resistor between the pins pictured here will resolve this. https://imgur.com/a/UOhxALO
 
  Gerbers and BOM are available if you'd like to build your own! If you're interested in purchasing an assembled mod email me at andrew.wells88@gmail.com or check out my etsy store.
  

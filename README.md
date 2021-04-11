@@ -6,7 +6,7 @@ Firmware can be found here. https://github.com/wizarddata/BlueMicro_BLE/tree/blu
 
 For now, use the fork linked above to make any layout changes and utilize the adafruit nrf52832 BSP.
 
-Gerbers and BOM are available if you'd like to build your own! If you're interested in purchasing an assembled mod email me at andrew.wells88@gmail.com or check out my etsy store.
+Gerbers and BOM are available if you'd like to build your own! If you're interested in purchasing an assembled mod email me at andrew.wells88@gmail.com or check out my etsy store. If you're so inclined, I can install a mod in your keyboard as well.
  
  https://www.etsy.com/shop/WizardKeyboards?ele=shop_open
  
